@@ -41,7 +41,7 @@ CREATE TABLE data_barang (
    );
 ```
 
-[img]()
+[img](https://github.com/NurAkbarr/Lab8_web/blob/fa13d94fdb4917226625e20c2aed52711ee36006/assets/1.png)
 
 4. Menambhakan data
 
@@ -52,12 +52,14 @@ CREATE TABLE data_barang (
    ('Elektronik', 'HP OPPO Android', 'hp_oppo.jpg', 1800000, 2300000, 5);
 ```
 
-[img]()
+[img](https://github.com/NurAkbarr/Lab8_web/blob/fa13d94fdb4917226625e20c2aed52711ee36006/assets/3.png)
 
 5. 5. Membuat Program CRUD
 
    - Buat folder `lab8_php_database` pada root directory web server `(c:\xampp\htdocs)`
    - Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses `URL:http://localhost/lab8_php_database/`
+
+   [img](https://github.com/NurAkbarr/Lab8_web/blob/fa13d94fdb4917226625e20c2aed52711ee36006/assets/4.png)
 
 6. Membuat File Koneksi Database
 
@@ -78,7 +80,7 @@ CREATE TABLE data_barang (
    } else echo "Koneksi berhasil";
    ?>
    ```
-[img]()
+[img](https://github.com/NurAkbarr/Lab8_web/blob/fa13d94fdb4917226625e20c2aed52711ee36006/assets/5.png)
 
 7. Membuat File Index
 
@@ -209,7 +211,7 @@ a {
 </html>
 ```
 
-[img]()
+[img](https://github.com/NurAkbarr/Lab8_web/blob/fa13d94fdb4917226625e20c2aed52711ee36006/assets/6.png)
 
 8. Buat file baru dengan nama tambah.php
 
@@ -355,7 +357,7 @@ if (isset($_POST['submit'])) {
 </html>
 ```
 
-[img]()
+[img](https://github.com/NurAkbarr/Lab8_web/blob/fa13d94fdb4917226625e20c2aed52711ee36006/assets/7.png)
 
 9. Buat file baru dengan nama ubah.php
 
@@ -522,7 +524,5 @@ function is_select($var, $val) {
 </body>
 </html>
 ```
-
-
-## **Praktikum 8**
+[img](https://github.com/NurAkbarr/Lab8_web/blob/fa13d94fdb4917226625e20c2aed52711ee36006/assets/2.png)
 
